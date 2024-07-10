@@ -1,23 +1,15 @@
 import logging
 from csv_functions import read_entries_from_csv, write_price_data_dict_csv
+from chrome_functions import setup_driver, handle_popup, get_page
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
-from scrap import read_entries_from_csv
-from scrap import setup_driver
-import time
-import random
 import unidecode
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import (
-    NoSuchElementException,
-    ElementClickInterceptedException,
-)
 import re
 
 
 def build_google_search_url(
-        urlencode,
-        logger,
+    urlencode,
+    logger,
     query,
     language="en",
     domain="co.za",
@@ -66,8 +58,7 @@ def build_google_search_url(
     return url
 
 
-def parse_google_search_page(bs4, logger, page):
-    soup = bs4(page, "html5lib", from_encoding="UTF-8")
+def parse_google_search_page(logger, decode_lib, soup):
     search_results_div = soup.find("div", id="rso")
     if search_results_div == None:
         logger.info("The results page was empty")
@@ -78,10 +69,10 @@ def parse_google_search_page(bs4, logger, page):
         return
     parsed_info = []
     for card in search_results_cards:
-        name = get_product_name(card)
-        price = get_product_price(card)
-        product_link = get_product_link(card)
-        shop = get_shop_name(card)
+        name = get_product_name(decode_lib, logger,card)
+        price = get_product_price(decode_lib, logger, card)
+        product_link = get_product_link(logger, card)
+        shop = get_shop_name(decode_lib, logger, card)
         parsed_info.append((name, price, product_link, shop))
     return parsed_info
 
@@ -100,14 +91,16 @@ def get_product_name(decode, logger, html_card):
 
 def get_product_price(decode, logger, html_card):
     price = 0
-    text = html_card.get_text()
-    text = decode.unidecode(text)
-    try:
-        price = re.search(r"(ZAR|R)\s?(\d+)(,|.)?(\d*)?", text)
-        return price.group(0)
-    except:
-        logger.info("Couldn't get price")
-    return price
+    strings = html_card.stripped_strings
+    for string in strings:
+        text = decode.unidecode(string)
+        try:
+            price = re.search(r"(ZAR|R)\s?(\d+)(,|\.)?(\d*)?", text)
+            if price:
+                return price.group(0)
+        except:
+            logger.info("Couldn't get price")
+    return 0
 
 
 def get_product_link(logger, html_card):
@@ -124,59 +117,11 @@ def get_shop_name(decode, logger, html_card):
     name = ""
     try:
         name_tag = html_card.find("div", class_="CA5RN")
-        name_tag = name_tag.find("div", class_="VuuXrf")
-        name = name_tag.get_text()
+        name = name_tag.find("div", class_="VuuXrf").string
         name = unidecode.unidecode(name)
     except:
         logger.info("failed to get a name")
     return name
-
-
-def get_page(driver, time_module, rand_module, url):
-    driver.get(url)
-    time_module.sleep(rand_module.uniform(0, 2))  # Random delay to mimic human behavior
-    driver.implicitly_wait(2)  # Wait up to 30 seconds
-    return driver.page_source
-
-
-def handle_popup(driver, logger):
-    try:
-        # reject_button = driver.find_element(By.CSS_SELECTOR, 'input.basebutton.button[type="submit"][value="Reject all"]')
-        reject_button = driver.find_element(By.CSS_SELECTOR, "#W0wltc > div")
-        reject_button.click()
-    except:
-        logger.info("Failed to find the button")
-        # List of texts to look for in the popup
-        texts_to_look_for = ["Reject all", "Reject", "Cancel"]
-
-        # List of tags to search for these texts
-        tags_to_search = ["button", "input", "a", "span", "div"]
-
-        # Iterate over each tag
-        for tag in tags_to_search:
-            try:
-                # Find all elements with the given tag
-                elements = driver.find_elements(By.TAG_NAME, tag)
-
-                # Iterate over each element
-                for element in elements:
-                    # Check if the element text matches any of the texts to look for
-                    for text in texts_to_look_for:
-                        if text.lower() in element.text.lower():
-                            try:
-                                element.click()
-                                logger.info(f"Clicked the element with text: {text}")
-                                return True  # Exit the function after clicking
-                            except (
-                                ElementClickInterceptedException,
-                                NoSuchElementException,
-                            ) as e:
-                                logger.warning(f"Could not click the element: {e}")
-            except NoSuchElementException:
-                logger.debug(f"No elements found with tag: {tag}")
-
-    logger.info("No matching element found to reject the pop-up.")
-    return False
 
 
 def is_match(re_module, text1: str, text2: str):
@@ -197,9 +142,16 @@ def filter_parsed_result_list(re, arr: list, query: str):
             filtered_data.append(data)
     return filtered_data
 
-
-
-
+def remove_non_text_tags(logger, soup_obj):
+    tags = ['script', 'img', 'style', 'svg']
+    for tag in tags:
+        try:
+            for tag_data in soup_obj.find_all(tag):
+                tag_data.decompose()
+        except:
+            continue
+    return soup_obj
+    
 def main():
     logger = logging.getLogger(__name__)
     driver = setup_driver()
@@ -212,8 +164,10 @@ def main():
     price_data = {}
     for query in queries:
         url = build_google_search_url(urlencode, logger, query)
-        r = get_page(driver, time, random, url)
-        res = parse_google_search_page(BeautifulSoup, logger, r)
+        page = get_page(driver, url)
+        page_soup = BeautifulSoup(page, "html.parser")
+        page_soup_filtered = remove_non_text_tags(logger, page_soup)
+        res = parse_google_search_page(logger, unidecode, page_soup_filtered)
         res_filtered = filter_parsed_result_list(re, res, query)
         price_data[query] = res_filtered
         logger.info(res)
@@ -221,5 +175,5 @@ def main():
     logging.info("finished")
 
 
-# if __main__ == "__main__":
-main()
+if __name__ == "__main__":
+    main()
