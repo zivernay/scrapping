@@ -1,0 +1,41 @@
+import csv
+
+
+def write_price_data_dict_csv(data: dict):
+    csvfile = open("price_data_compact.csv", "w", newline="")
+    csvfile_raw = open("price_data.csv", "w", newline="")
+    compact_writer = csv.writer(
+        csvfile, delimiter=";", quotechar="'", quoting=csv.QUOTE_MINIMAL
+    )
+    raw_writer = csv.writer(
+        csvfile_raw, delimiter=";", quotechar="'", quoting=csv.QUOTE_MINIMAL
+    )
+    compact_writer.writerow(["Query", "Price 1", "Price 2", "Price 3"])
+    raw_writer.writerow(
+        ["Query", "Matched name", "Price", "PRoduct link", "Shop name"] * 3
+    )
+    for key, value in data.items():
+        compact_row = [key]
+        row = [key]
+        for internal_value in value:
+            compact_row.append(internal_value[1])
+            row.append(internal_value)
+        raw_writer.writerow(row)
+        compact_writer.writerow(compact_row)
+    csvfile.close()
+    csvfile_raw.close()
+
+
+def read_entries_from_csv(csv_file_path):
+    """
+    Read single column CSV data from a file
+    @{inputs} : path
+    @{returns}: array of entries
+    """
+    entries = []
+    with open(csv_file_path, mode="r", newline="") as file:
+        reader = csv.reader(file)
+        for row in reader:
+            if row:  # Check if the row is not empty
+                entries.append(row[0])
+    return entries
