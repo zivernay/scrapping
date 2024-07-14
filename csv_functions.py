@@ -2,8 +2,8 @@ import csv
 
 
 def write_price_data_dict_csv(data: dict):
-    csvfile = open("price_data_compact.csv", "w", newline="")
-    csvfile_raw = open("price_data.csv", "w", newline="")
+    csvfile = open(".\\files\\price_data_compact.csv", "w", newline="")
+    csvfile_raw = open(".\\files\\price_data.csv", "w", newline="")
     compact_writer = csv.writer(
         csvfile, delimiter=";", quotechar="'", quoting=csv.QUOTE_MINIMAL
     )
@@ -12,14 +12,14 @@ def write_price_data_dict_csv(data: dict):
     )
     compact_writer.writerow(["Query", "Price 1", "Price 2", "Price 3"])
     raw_writer.writerow(
-        ["Query", "Matched name", "Price", "PRoduct link", "Shop name"] * 3
+        ["Query"] + ["Matched name", "Price", "PRoduct link", "Shop name"] * 3
     )
     for key, value in data.items():
         compact_row = [key]
         row = [key]
         for internal_value in value:
             compact_row.append(internal_value[1])
-            row.append(internal_value)
+            for elem in internal_value: row.append(elem)
         raw_writer.writerow(row)
         compact_writer.writerow(compact_row)
     csvfile.close()

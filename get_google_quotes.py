@@ -155,7 +155,7 @@ def remove_non_text_tags(logger, soup_obj):
 def main():
     logger = logging.getLogger(__name__)
     driver = setup_driver()
-    logging.basicConfig(filename="gsearch.log", level=logging.INFO)
+    logging.basicConfig(filename=".\\files\\gsearch.log", level=logging.INFO)
     logging.info("start")
     csv_file_path = "queries.csv"
     queries = read_entries_from_csv(csv_file_path)

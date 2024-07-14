@@ -1,0 +1,446 @@
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=7baeb6527905ea61&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(12+x+12mm)&udm=2&source=univ&fir=W3bcTSm0GzW0uM%252CttTpfoyWB0DVfM%252C_%253Bw-OKr31DellPVM%252CisFoEbibuQviQM%252C_%253BQ6J_ZaFE24FHAM%252CmE1MwaLOjaL64M%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253BZsntI7_z1DHhKM%252C0tKorShy1X2GcM%252C_%253BhscB7D1i1_RsvM%252CxPZjyBBU9rRA3M%252C_%253BdoeuD-n1srqCxM%252CJ7jFfVAncLDDUM%252C_%253BkrczNorlZ61NyM%252CFLU31GF0IUpiXM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253BGe2tyRL9IICHWM%252COLllCmaMpQmfNM%252C_&usg=AI4_-kQRsQ5dBl-VsD7VHsmemFa1k37EhA', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Rhino Junior Plastic Brown Bib Tap Hose Union, GD Fittings', 'ZAR 32.95', 'https://www.cashbuild.co.za/shop/internal-taps/16812-rhino-junior-plastic-brown-bib-tap-hose-union-6009698201885.html', ''), ('Hose Bib Tap, Plastic', 'ZAR 64.95', 'https://www.cashbuild.co.za/shop/internal-taps/5629-hose-bib-tap-plastic-6009620843404.html', ''), ('Builders', 'R85.', 'https://www.onecart.co.za/store/639/builders/category/103', ''), (' Garden plastic edging', 'R 12.98', 'https://www.buco.co.za/catalogsearch/result/index/?_mof_data=product_brand%3A9296&p=4&q=Garden+plastic+edging', ''), ('Everything Homeowners Need to Know About Hose Bibs in Edmonton!', 0, 'https://www.mrrooter.ca/edmonton/about-us/blog/2019/march/everything-you-need-to-know-about-your-hose-bib-/#:~:text=The%20most%20common%20sizes%20are,coming%20out%20of%20the%20faucet.', ''), (' Garden fence plastic', 0, 'https://www.buco.co.za/default/catalogsearch/result/index/?p=5&q=Garden+fence+plastic', ''), ('Polished Brass Garden Hose Water Bib Tap 1/2 With Male ...', 'R29.00', 'https://www.pricecheck.co.za/offers/242442000/polished-brass-garden-hose-water-bib-tap-12-with-male-thread?rc=Product:138135291.RelatedProducts', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2819+x+19mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm) ...', 'R178.00', 'https://www.bobshop.co.za/builders-plastic-garden-hose-bib-tap-brown-19-x-19mm/p/607714295', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=7baeb6527905ea61&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(19+x+19mm)&udm=2&source=univ&fir=WO4ndOwipm401M%252ChBpgvasWlPXaRM%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253Bv_nsFZBtK_DpcM%252Ccr4vfAxC-J2oHM%252C_%253BdN5-3TdA3Znh2M%252Ccr4vfAxC-J2oHM%252C_%253BQ3oNgUIZZ-9qDM%252Ccr4vfAxC-J2oHM%252C_%253Be30p16PsbcGdhM%252CYfI0XAvHitfVvM%252C_%253BFCx77kaw5jHOQM%252CqF118aKDED5uEM%252C_%253BNRnIuHs2y7lMLM%252CjQWOfOeV_F8ZsM%252C_%253BrBTVOKICSoyQoM%252CKbymZY4Z6uzqLM%252C_&usg=AI4_-kTE_4LJ1Z_KcJsuduwQ56IPaZ8AIw', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('What is the difference between a tap and a Bibcock faucet? - IFAN', 0, 'https://www.ifanpiping.com/info/what-is-the-difference-between-a-tap-and-a-bib-86227765.html#:~:text=Taps%20are%20installed%20on%20sinks,to%20a%20vertical%20cylindrical%20body.', ''), (' heavy duty garden hose kit', 'R 74.99', 'https://www.buco.co.za/catalogsearch/result/index/?p=5&q=heavy+duty+garden+hose+kit', ''), ('WEDGIT STARTER KIT 6PCE 19MM 3/4', 0, 'https://robotindustrial.co.za/WED00017_WEDGIT-STARTER-KIT-6PCE-19MM-3_4ft', ''), ('Builders Hose Bib Tap (20mm) R180', 'R180', 'https://www.onecart.co.za/store/639/builders/product/462449/builders-hose-bib-tap-(20mm)', ''), ('Garden Hose | Shop in South Africa', 'R72.95', 'https://www.cashbuild.co.za/shop/503-garden-hose', ''), ('Gardena Hose Connector 16mm/19mm', 'ZAR 59.99', 'https://www.checkers.co.za/All-Departments/Outdoor/Garden/Garden-and-Irrigation-Accessories/Gardena-Hose-Connector-16mm-19mm/p/10112778EA', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=5+kg+Empty+Gas+Cylinder+5595&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('', 0, '', ''), ('Cadac 5kg Gas Cylinder - 5595 - New World', 'ZAR 729.00', 'https://newworld.co.za/products/cadac-5kg-gas-cylinder-5595', ''), ('Cadac 5595 5KG Gas Cylinder - Blue - Stax', 'ZAR 599.00', 'https://www.stax.co.za/product/cadac-5595-5kg-gas-cylinder-blue/', ''), ('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.onecart.co.za/store/639/builders/product/466554/cadac-empty-gas-cylinder-(5kg)', ''), ('CADAC Empty Gas Cylinder 5 KG', 'ZAR 659.00', 'https://www.game.co.za/Garden-Patio-Pool/Braai-Patio/Gas-Cylinders/p/000000000000527313', ''), ('Cadac 5kg Gas Cylinder', 0, 'https://www.gasextreme.co.za/shop/gas/gas-cylinders-refills/cadac-5kg-gas-cylinder/', ''), ('', 'R650.00', '/search?lr=lang_en&cr=countryZA&sca_esv=7baeb6527905ea61&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=5+kg+Empty+Gas+Cylinder+5595&udm=2&source=univ&fir=suzy-_Jm8hRBZM%252CGpc-EsOaG4n9lM%252C_%253BJc-jZFoT8MstcM%252CK6mX2JVEGFMwZM%252C_%253BnPObQpDALrS4xM%252Cd-o-A-BvXnj2_M%252C_%253B-t141XHWAZ7zQM%252CtlEB0vr0i2XHEM%252C_%253Bob7FqcvDCzSl4M%252CCWdLsihU1dS-VM%252C_%253Be4s8F_hpnp4gaM%252CIAMBhwA-33__xM%252C_%253BnIV1W22pxThATM%252CmvYMoOki6yiVXM%252C_%253BIACvBUJBeN-0mM%252CiwQUS8-Z3DaN4M%252C_%253BspXz681YbGDhRM%252CLE8KQlvmrMLQKM%252C_%253Bbfg5W2-ppfGf-M%252CiwQUS8-Z3DaN4M%252C_&usg=AI4_-kSmGZ72_usYEKqwMYYt0YaRZMnJTg', ''), ('Cadac Empty Gas Cylinder 5Kg', 'ZAR 695.00', 'https://mercurybuildit.co.za/products-new/gas/empty-bottles/cadac-gas-cylinder-5kg-empty-bottle/', ''), ('Cadac 5 kg Gas Cylinder (excludes gas)', 'R 5', 'https://www.makro.co.za/sports-outdoor-travel/camping/gas-cylinders/gas-cylinders/cylinders/cadac-5-kg-gas-cylinder-excludes-gas-/p/000000000000408408_EA', ''), ('Alva 5 kg Empty Gas Cylinder G050', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Alva-5-kg-Empty-Gas-Cylinder-G050/p/000000000000714461', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Stainless+Steel+Gas+Stove+Silver+GCS04&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=7baeb6527905ea61&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Stainless+Steel+Gas+Stove+Silver+GCS04&udm=2&source=univ&fir=6j6PdN5Q-uNA-M%252CvBJ-v7LDubLI3M%252C_%253BL-cWpQZApz2ZPM%252CQUfRZNO82UCb3M%252C_%253BcOH1YaUfSwpqlM%252CQvvhncbJj1vr9M%252C_%253Bx8gb_SgROnDPVM%252Cr3YP1gDCzL9t3M%252C_%253BdcndQ_RVzCqR9M%252C12G0MZHcjHV_-M%252C_%253BLRXP7Wp-E5WaEM%252CkfsZusjFMhNzlM%252C_%253BL6DJYpgo5h-Z9M%252C37LUjVnmeoopUM%252C_%253B9UxexM17OvldCM%252Cz4fUIohJ1bdHWM%252C_%253BDdYmnWoQPXN9KM%252CRuKSfUY0G3-I1M%252C_%253Bh28_vlQOiwlm1M%252CyGumIqRfkVJaRM%252C_&usg=AI4_-kSxxjp6dl67dAoP4hWF2EAA9gUmJw', ''), ('', 0, '', ''), ('Alva 2-Burner Stainless Steel Gas Stove GCS04', 'ZAR 419.00', 'https://www.chamberlains.co.za/alva-2-burner-stainless-steel-gas-stove-gcs04-1060021', ''), ('Alva 2 Burner Stainless Steel Gas Stove Silver GCS04', 'ZAR 599.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('2-BURNER STAINLESS STEEL GAS STOVE', 'R 499.', 'https://alva.co.za/products/2-burner-gas-stove', ''), ('Alva Stainless Steel 2 Plate Gas Burner Stove GCS04', 0, 'https://www.fandc.co.za/product/alva-stainless-steel-2-plate-gas-burner-stove/', ''), ('Alva - 2 Burner - Stainless Steel Gas Stove GCS04', 0, 'https://giftguide.co.za/products/alva-2-burner-stainless-steel-gas-stove', ''), ('Alva 2 Plate Stainless Steel Gas Stove - Silver (720 x 390 ...', 'ZAR 559.00', 'https://www.builders.co.za/Outdoor/Camping/Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove---Silver-(720-x-390-x-100mm)/p/000000000000457807?', ''), ('Alva Stainless Steel Gas Stove - 2 Burner', 'ZAR 499.00', 'https://4months.co.za/product/alva-stainless-steel-gas-stove-2-burner/', ''), ('2 Burner Gas Stove With Legs - GCS04L ALVA', 0, 'https://www.silverstreams.co.za/6.2-Burner-Gas-Stove-With-Legs-GCS04L-ALVA-Gas-Products.htm?nbsGroupID=5&prodSubCatID=60&prodCatID=27&prodID=2116', ''), ('The Best Cookware for Gas Stoves: What To Look For', 0, 'https://hexclad.com/blogs/posts/best-cookware-for-gas-stoves#:~:text=Stainless%20steel%20heats%20evenly%20and,that%20utilize%20tri%2Dply%20technology.', ''), ('Alva 2-Burner Gas StoveAlva GCS04', 'ZAR 399.00', 'https://brandssa.co.za/product/alva-2-burner-gas-stovealva-gcs04/', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Demand+Bib+Tap+-+Brass&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cobra Demand Bib Tap - Brass - CobraOnline', 'ZAR 1,599', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('', 0, '', ''), ('G-Kent Brass Bib Tap 15mm (1/2")', 0, 'https://www.intraco.com.my/g-kent-brass-bib-tap-15mm-1-2#:~:text=faucets%20mounted%20on%20vertical%20surfaces,temperature%20of%2065%C2%B0C.', ''), ('Cobra Demand Wall Tap Demand', 'ZAR 1,532', 'https://www.cobra.co.za/product/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=7baeb6527905ea61&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Demand+Bib+Tap+-+Brass&udm=2&source=univ&fir=aMILb3TtpIiyyM%252Cr_75Epw0ZeuuMM%252C_%253BgeeMq1bUsR3rhM%252C2aZkdBr2-JdesM%252C_%253B32JFErlhniC8MM%252CyCooJLoqHUtGbM%252C_%253BN_JWrKh0kL5YlM%252CpLNv3L3fE4dkNM%252C_%253BCTQdr2RZHv5vPM%252CJ0wqePsQNJjDvM%252C_%253BVny4J62nVvkUBM%252C5mSs1DoDAf1wTM%252C_%253BJ-xLO3xw0PnBXM%252C86Oje7FkQdihZM%252C_%253BvzG75z7PbuVV_M%252CYqx7uhvhVFZXoM%252C_%253BnAe2XLmNRDrW7M%252Cr0ap3seG8AowFM%252C_%253BgP7ek4-V_dotIM%252CtNLTf6Q7KdLrRM%252C_&usg=AI4_-kQNh5Zy6AOjc4zbGaagz2jlfgErnA', ''), ('Tap Bib Demand Cobra Wall Type with Push Button Brass', 'ZAR 1,270', 'https://plumbitonline.co.za/product/tap-bib-demand-cobra-wall-type-with-push-button-brass', ''), ('Cobra Demand Bib Tap - Chrome', 'ZAR 1,899', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-chrome', ''), ('Cobra - - Tap & Mixer Public - Bib Tap - Brass', 'ZAR 1,532', 'https://www.lixil.co.za/item/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('WALCRO 101D DEMAND PUSH BUTTON BIB TAP CP ...', 'R769.34', 'https://www.plumblink.co.za/walcro-101d-demand-bibtap-15mm', ''), ('Cobra Demand Bib Tap - Brass', 'ZAR 1,599', 'https://www.livecopper.co.za/products/cobra-demand-bib-tap-brass', ''), ('Bib Demand Tap Short Body', 0, 'https://cachet.co.za/bib-demand-tap-short-body-99035dmt.html', ''), ('COBRA DEMAND PUSH BUTTON BIBTAP 15mm RB KM2 ...', 'R1,583', 'https://www.plumblink.co.za/cobra-demand-push-button-bibtap-km2-203-15-rb', '')]
+INFO:root:finished
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('', 0, 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Rhino Junior Plastic Brown Bib Tap Hose Union, GD Fittings', 'ZAR 32.95', 'https://www.cashbuild.co.za/shop/internal-taps/16812-rhino-junior-plastic-brown-bib-tap-hose-union-6009698201885.html', ''), ('Hose Bib Tap, Plastic', 'ZAR 64.95', 'https://www.cashbuild.co.za/shop/internal-taps/5629-hose-bib-tap-plastic-6009620843404.html', ''), ('Builders', 'R85.', 'https://www.onecart.co.za/store/639/builders/category/103', ''), (' Garden plastic edging', 'R 12.98', 'https://www.buco.co.za/catalogsearch/result/index/?_mof_data=product_brand%3A9296&p=4&q=Garden+plastic+edging', ''), ('Hose Union Bib Taps - Stevenson Plumbing and Electrical Supplies', 0, 'https://www.stevensonplumbing.co.uk/hose-union-bib-taps.html#:~:text=Brass%20outside%20tap%20%2F%20hose%20union,1%2F2%20inch%20BSP%20thread.', ''), (' Garden fence plastic', 0, 'https://www.buco.co.za/default/catalogsearch/result/index/?p=5&q=Garden+fence+plastic', ''), ('Polished Brass Garden Hose Water Bib Tap 1/2 With Male ...', 'R29.00', 'https://www.pricecheck.co.za/offers/242442000/polished-brass-garden-hose-water-bib-tap-12-with-male-thread?rc=Product:138135291.RelatedProducts', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2819+x+19mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm) ...', 'R178.00', 'https://www.bobshop.co.za/builders-plastic-garden-hose-bib-tap-brown-19-x-19mm/p/607714295', ''), ('', 0, 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('How are hose bibs and sillcocks different, and which outdoor faucet sh', 0, 'https://www.aquorwatersystems.com/blogs/news/outdoor-faucets-how-are-hose-bibs-and-silcocks-different-and-which-should-i-choose#:~:text=A%20hose%20bib%20is%20a,an%20outdoor%20faucet%20as%20well.', ''), (' heavy duty garden hose kit', 'R 74.99', 'https://www.buco.co.za/catalogsearch/result/index/?p=5&q=heavy+duty+garden+hose+kit', ''), ('WEDGIT STARTER KIT 6PCE 19MM 3/4', 0, 'https://robotindustrial.co.za/WED00017_WEDGIT-STARTER-KIT-6PCE-19MM-3_4ft', ''), ('Builders Hose Bib Tap (20mm) R180', 'R180', 'https://www.onecart.co.za/store/639/builders/product/462449/builders-hose-bib-tap-(20mm)', ''), ('Garden Hose | Shop in South Africa', 'R72.95', 'https://www.cashbuild.co.za/shop/503-garden-hose', ''), ('Gardena Hose Connector 16mm/19mm', 'ZAR 59.99', 'https://www.checkers.co.za/All-Departments/Outdoor/Garden/Garden-and-Irrigation-Accessories/Gardena-Hose-Connector-16mm-19mm/p/10112778EA', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=5+kg+Empty+Gas+Cylinder+5595&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('', 0, '', ''), ('Cadac 5kg Gas Cylinder - 5595 - New World', 'ZAR 729.00', 'https://newworld.co.za/products/cadac-5kg-gas-cylinder-5595', ''), ('Cadac 5595 5KG Gas Cylinder - Blue - Stax', 'ZAR 599.00', 'https://www.stax.co.za/product/cadac-5595-5kg-gas-cylinder-blue/', ''), ('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.onecart.co.za/store/639/builders/product/466554/cadac-empty-gas-cylinder-(5kg)', ''), ('CADAC Empty Gas Cylinder 5 KG', 'ZAR 659.00', 'https://www.game.co.za/Garden-Patio-Pool/Braai-Patio/Gas-Cylinders/p/000000000000527313', ''), ('Cadac 5kg Gas Cylinder', 0, 'https://www.gasextreme.co.za/shop/gas/gas-cylinders-refills/cadac-5kg-gas-cylinder/', ''), ('', 'R650.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('Cadac Empty Gas Cylinder 5Kg', 'ZAR 695.00', 'https://mercurybuildit.co.za/products-new/gas/empty-bottles/cadac-gas-cylinder-5kg-empty-bottle/', ''), ('Cadac 5 kg Gas Cylinder (excludes gas)', 'R 5', 'https://www.makro.co.za/sports-outdoor-travel/camping/gas-cylinders/gas-cylinders/cylinders/cadac-5-kg-gas-cylinder-excludes-gas-/p/000000000000408408_EA', ''), ('Alva 5 kg Empty Gas Cylinder G050', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Alva-5-kg-Empty-Gas-Cylinder-G050/p/000000000000714461', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Stainless+Steel+Gas+Stove+Silver+GCS04&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('', 0, 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('', 0, '', ''), ('Alva 2-Burner Stainless Steel Gas Stove GCS04', 'ZAR 419.00', 'https://www.chamberlains.co.za/alva-2-burner-stainless-steel-gas-stove-gcs04-1060021', ''), ('Alva 2 Burner Stainless Steel Gas Stove Silver GCS04', 'ZAR 599.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('2-BURNER STAINLESS STEEL GAS STOVE', 'R 499.', 'https://alva.co.za/products/2-burner-gas-stove', ''), ('Alva Stainless Steel 2 Plate Gas Burner Stove GCS04', 0, 'https://www.fandc.co.za/product/alva-stainless-steel-2-plate-gas-burner-stove/', ''), ('Alva - 2 Burner - Stainless Steel Gas Stove GCS04', 0, 'https://giftguide.co.za/products/alva-2-burner-stainless-steel-gas-stove', ''), ('Alva 2 Plate Stainless Steel Gas Stove - Silver (720 x 390 ...', 'ZAR 559.00', 'https://www.builders.co.za/Outdoor/Camping/Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove---Silver-(720-x-390-x-100mm)/p/000000000000457807?', ''), ('Alva Stainless Steel Gas Stove - 2 Burner', 'ZAR 499.00', 'https://4months.co.za/product/alva-stainless-steel-gas-stove-2-burner/', ''), ('2 Burner Gas Stove With Legs - GCS04L ALVA', 0, 'https://www.silverstreams.co.za/6.2-Burner-Gas-Stove-With-Legs-GCS04L-ALVA-Gas-Products.htm?nbsGroupID=5&prodSubCatID=60&prodCatID=27&prodID=2116', ''), ('The Best Cookware for Gas Stoves: What To Look For', 0, 'https://hexclad.com/blogs/posts/best-cookware-for-gas-stoves#:~:text=Stainless%20steel%20heats%20evenly%20and,that%20utilize%20tri%2Dply%20technology.', ''), ('Alva 2-Burner Gas StoveAlva GCS04', 'ZAR 399.00', 'https://brandssa.co.za/product/alva-2-burner-gas-stovealva-gcs04/', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Demand+Bib+Tap+-+Brass&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cobra Demand Bib Tap - Brass - CobraOnline', 'ZAR 1,599', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('', 0, '', ''), ('G-Kent Brass Bib Tap 15mm (1/2")', 0, 'https://www.intraco.com.my/g-kent-brass-bib-tap-15mm-1-2#:~:text=faucets%20mounted%20on%20vertical%20surfaces,temperature%20of%2065%C2%B0C.', ''), ('Cobra Demand Wall Tap Demand', 'ZAR 1,532', 'https://www.cobra.co.za/product/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('', 0, 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('Tap Bib Demand Cobra Wall Type with Push Button Brass', 'ZAR 1,270', 'https://plumbitonline.co.za/product/tap-bib-demand-cobra-wall-type-with-push-button-brass', ''), ('Cobra Demand Bib Tap - Chrome', 'ZAR 1,899', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-chrome', ''), ('Cobra - - Tap & Mixer Public - Bib Tap - Brass', 'ZAR 1,532', 'https://www.lixil.co.za/item/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('WALCRO 101D DEMAND PUSH BUTTON BIB TAP CP ...', 'R769.34', 'https://www.plumblink.co.za/walcro-101d-demand-bibtap-15mm', ''), ('Cobra Demand Bib Tap - Brass', 'ZAR 1,599', 'https://www.livecopper.co.za/products/cobra-demand-bib-tap-brass', ''), ('Bib Demand Tap Short Body', 0, 'https://cachet.co.za/bib-demand-tap-short-body-99035dmt.html', ''), ('COBRA DEMAND PUSH BUTTON BIBTAP 15mm RB KM2 ...', 'R1,583', 'https://www.plumblink.co.za/cobra-demand-push-button-bibtap-km2-203-15-rb', '')]
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(12+x+12mm)&tbm=isch&source=univ&fir=W3bcTSm0GzW0uM%252CttTpfoyWB0DVfM%252C_%253Bw-OKr31DellPVM%252CisFoEbibuQviQM%252C_%253BQ6J_ZaFE24FHAM%252CmE1MwaLOjaL64M%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253BZsntI7_z1DHhKM%252C0tKorShy1X2GcM%252C_%253BhscB7D1i1_RsvM%252CxPZjyBBU9rRA3M%252C_%253BdoeuD-n1srqCxM%252CJ7jFfVAncLDDUM%252C_%253BkrczNorlZ61NyM%252CFLU31GF0IUpiXM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253BGe2tyRL9IICHWM%252COLllCmaMpQmfNM%252C_&usg=AI4_-kRB3kfVJOLqitSYFBFnEbJ55mtarQ', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Rhino Junior Plastic Brown Bib Tap Hose Union, GD Fittings', 'ZAR 32.95', 'https://www.cashbuild.co.za/shop/internal-taps/16812-rhino-junior-plastic-brown-bib-tap-hose-union-6009698201885.html', ''), ('Hose Bib Tap, Plastic', 'ZAR 64.95', 'https://www.cashbuild.co.za/shop/internal-taps/5629-hose-bib-tap-plastic-6009620843404.html', ''), ('Builders', 'R85.', 'https://www.onecart.co.za/store/639/builders/category/103', ''), (' Garden plastic edging', 'R 12.98', 'https://www.buco.co.za/catalogsearch/result/index/?_mof_data=product_brand%3A9296&p=4&q=Garden+plastic+edging', ''), ('Everything Homeowners Need to Know About Hose Bibs in Edmonton!', 0, 'https://www.mrrooter.ca/edmonton/about-us/blog/2019/march/everything-you-need-to-know-about-your-hose-bib-/#:~:text=The%20most%20common%20sizes%20are,coming%20out%20of%20the%20faucet.', ''), (' Garden fence plastic', 0, 'https://www.buco.co.za/default/catalogsearch/result/index/?p=5&q=Garden+fence+plastic', ''), ('Polished Brass Garden Hose Water Bib Tap 1/2 With Male ...', 'R29.00', 'https://www.pricecheck.co.za/offers/242442000/polished-brass-garden-hose-water-bib-tap-12-with-male-thread?rc=Product:138135291.RelatedProducts', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2819+x+19mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm) ...', 'R178.00', 'https://www.bobshop.co.za/builders-plastic-garden-hose-bib-tap-brown-19-x-19mm/p/607714295', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(19+x+19mm)&tbm=isch&source=univ&fir=WO4ndOwipm401M%252ChBpgvasWlPXaRM%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253Bv_nsFZBtK_DpcM%252Ccr4vfAxC-J2oHM%252C_%253BdN5-3TdA3Znh2M%252Ccr4vfAxC-J2oHM%252C_%253BQ3oNgUIZZ-9qDM%252Ccr4vfAxC-J2oHM%252C_%253Be30p16PsbcGdhM%252CYfI0XAvHitfVvM%252C_%253BFCx77kaw5jHOQM%252CqF118aKDED5uEM%252C_%253BNRnIuHs2y7lMLM%252CjQWOfOeV_F8ZsM%252C_%253BrBTVOKICSoyQoM%252CKbymZY4Z6uzqLM%252C_&usg=AI4_-kQJFRMsRf2soZYt-zm7J2M8UPGKaw', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('What is the difference between a tap and a Bibcock faucet? - IFAN', 0, 'https://www.ifanpiping.com/info/what-is-the-difference-between-a-tap-and-a-bib-86227765.html#:~:text=Taps%20are%20installed%20on%20sinks,to%20a%20vertical%20cylindrical%20body.', ''), (' heavy duty garden hose kit', 'R 74.99', 'https://www.buco.co.za/catalogsearch/result/index/?p=5&q=heavy+duty+garden+hose+kit', ''), ('WEDGIT STARTER KIT 6PCE 19MM 3/4', 0, 'https://robotindustrial.co.za/WED00017_WEDGIT-STARTER-KIT-6PCE-19MM-3_4ft', ''), ('Builders Hose Bib Tap (20mm) R180', 'R180', 'https://www.onecart.co.za/store/639/builders/product/462449/builders-hose-bib-tap-(20mm)', ''), ('Garden Hose | Shop in South Africa', 'R72.95', 'https://www.cashbuild.co.za/shop/503-garden-hose', ''), ('Gardena Hose Connector 16mm/19mm', 'ZAR 59.99', 'https://www.checkers.co.za/All-Departments/Outdoor/Garden/Garden-and-Irrigation-Accessories/Gardena-Hose-Connector-16mm-19mm/p/10112778EA', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=5+kg+Empty+Gas+Cylinder+5595&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('', 0, '', ''), ('Cadac 5kg Gas Cylinder - 5595 - New World', 'ZAR 729.00', 'https://newworld.co.za/products/cadac-5kg-gas-cylinder-5595', ''), ('Cadac 5595 5KG Gas Cylinder - Blue - Stax', 'ZAR 599.00', 'https://www.stax.co.za/product/cadac-5595-5kg-gas-cylinder-blue/', ''), ('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.onecart.co.za/store/639/builders/product/466554/cadac-empty-gas-cylinder-(5kg)', ''), ('Cadac 5kg Gas Cylinder', 0, 'https://www.gasextreme.co.za/shop/gas/gas-cylinders-refills/cadac-5kg-gas-cylinder/', ''), ('CADAC Empty Gas Cylinder 5 KG', 'ZAR 659.00', 'https://www.game.co.za/Garden-Patio-Pool/Braai-Patio/Gas-Cylinders/p/000000000000527313', ''), ('', 'R650.00', '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=5+kg+Empty+Gas+Cylinder+5595&tbm=isch&source=univ&fir=suzy-_Jm8hRBZM%252CGpc-EsOaG4n9lM%252C_%253BJc-jZFoT8MstcM%252CK6mX2JVEGFMwZM%252C_%253BnPObQpDALrS4xM%252Cd-o-A-BvXnj2_M%252C_%253B-t141XHWAZ7zQM%252CtlEB0vr0i2XHEM%252C_%253Bob7FqcvDCzSl4M%252CCWdLsihU1dS-VM%252C_%253Be4s8F_hpnp4gaM%252CIAMBhwA-33__xM%252C_%253BnIV1W22pxThATM%252CmvYMoOki6yiVXM%252C_%253BIACvBUJBeN-0mM%252CiwQUS8-Z3DaN4M%252C_%253BspXz681YbGDhRM%252CLE8KQlvmrMLQKM%252C_%253Bbfg5W2-ppfGf-M%252CiwQUS8-Z3DaN4M%252C_&usg=AI4_-kQnxbXy7o07fszuH67R-xIdtJeVDw', ''), ('Cadac Empty Gas Cylinder 5Kg', 'ZAR 695.00', 'https://mercurybuildit.co.za/products-new/gas/empty-bottles/cadac-gas-cylinder-5kg-empty-bottle/', ''), ('Cadac 5 kg Gas Cylinder (excludes gas)', 'R 5', 'https://www.makro.co.za/sports-outdoor-travel/camping/gas-cylinders/gas-cylinders/cylinders/cadac-5-kg-gas-cylinder-excludes-gas-/p/000000000000408408_EA', ''), ('Alva 5 kg Empty Gas Cylinder G050', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Alva-5-kg-Empty-Gas-Cylinder-G050/p/000000000000714461', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Stainless+Steel+Gas+Stove+Silver+GCS04&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Stainless+Steel+Gas+Stove+Silver+GCS04&tbm=isch&source=univ&fir=6j6PdN5Q-uNA-M%252CvBJ-v7LDubLI3M%252C_%253BL-cWpQZApz2ZPM%252CQUfRZNO82UCb3M%252C_%253BcOH1YaUfSwpqlM%252CQvvhncbJj1vr9M%252C_%253Bx8gb_SgROnDPVM%252Cr3YP1gDCzL9t3M%252C_%253BdcndQ_RVzCqR9M%252C12G0MZHcjHV_-M%252C_%253BLRXP7Wp-E5WaEM%252CkfsZusjFMhNzlM%252C_%253BL6DJYpgo5h-Z9M%252C37LUjVnmeoopUM%252C_%253B9UxexM17OvldCM%252Cz4fUIohJ1bdHWM%252C_%253BDdYmnWoQPXN9KM%252CRuKSfUY0G3-I1M%252C_%253Bh28_vlQOiwlm1M%252CyGumIqRfkVJaRM%252C_&usg=AI4_-kRDHBWDn-PG1SGHgn0MHbR5o0MhRw', ''), ('', 0, '', ''), ('Alva 2-Burner Stainless Steel Gas Stove GCS04', 'ZAR 419.00', 'https://www.chamberlains.co.za/alva-2-burner-stainless-steel-gas-stove-gcs04-1060021', ''), ('Alva 2 Burner Stainless Steel Gas Stove Silver GCS04', 'ZAR 599.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('2-BURNER STAINLESS STEEL GAS STOVE', 'R 499.', 'https://alva.co.za/products/2-burner-gas-stove', ''), ('Alva Stainless Steel 2 Plate Gas Burner Stove GCS04', 0, 'https://www.fandc.co.za/product/alva-stainless-steel-2-plate-gas-burner-stove/', ''), ('Alva - 2 Burner - Stainless Steel Gas Stove GCS04', 0, 'https://giftguide.co.za/products/alva-2-burner-stainless-steel-gas-stove', ''), ('Alva 2 Plate Stainless Steel Gas Stove - Silver (720 x 390 ...', 'ZAR 559.00', 'https://www.builders.co.za/Outdoor/Camping/Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove---Silver-(720-x-390-x-100mm)/p/000000000000457807?', ''), ('Alva Stainless Steel Gas Stove - 2 Burner', 'ZAR 499.00', 'https://4months.co.za/product/alva-stainless-steel-gas-stove-2-burner/', ''), ('2 Burner Gas Stove With Legs - GCS04L ALVA', 0, 'https://www.silverstreams.co.za/6.2-Burner-Gas-Stove-With-Legs-GCS04L-ALVA-Gas-Products.htm?nbsGroupID=5&prodSubCatID=60&prodCatID=27&prodID=2116', ''), ('The Best Cookware for Gas Stoves: What To Look For', 0, 'https://hexclad.com/blogs/posts/best-cookware-for-gas-stoves#:~:text=Stainless%20steel%20heats%20evenly%20and,that%20utilize%20tri%2Dply%20technology.', ''), ('Alva 2-Burner Gas StoveAlva GCS04', 'ZAR 399.00', 'https://brandssa.co.za/product/alva-2-burner-gas-stovealva-gcs04/', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Demand+Bib+Tap+-+Brass&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cobra Demand Bib Tap - Brass - CobraOnline', 'ZAR 1,599', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('', 0, '', ''), ('G-Kent Brass Bib Tap 15mm (1/2")', 0, 'https://www.intraco.com.my/g-kent-brass-bib-tap-15mm-1-2#:~:text=faucets%20mounted%20on%20vertical%20surfaces,temperature%20of%2065%C2%B0C.', ''), ('Cobra Demand Wall Tap Demand', 'ZAR 1,532', 'https://www.cobra.co.za/product/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Demand+Bib+Tap+-+Brass&tbm=isch&source=univ&fir=aMILb3TtpIiyyM%252Cr_75Epw0ZeuuMM%252C_%253BgeeMq1bUsR3rhM%252C2aZkdBr2-JdesM%252C_%253B32JFErlhniC8MM%252CyCooJLoqHUtGbM%252C_%253BN_JWrKh0kL5YlM%252CpLNv3L3fE4dkNM%252C_%253BCTQdr2RZHv5vPM%252CJ0wqePsQNJjDvM%252C_%253BVny4J62nVvkUBM%252C5mSs1DoDAf1wTM%252C_%253BJ-xLO3xw0PnBXM%252C86Oje7FkQdihZM%252C_%253BvzG75z7PbuVV_M%252CYqx7uhvhVFZXoM%252C_%253BnAe2XLmNRDrW7M%252Cr0ap3seG8AowFM%252C_%253BgP7ek4-V_dotIM%252CtNLTf6Q7KdLrRM%252C_&usg=AI4_-kQ6CJegO3Ulciv5BrdUL1T1CZrWDQ', ''), ('Tap Bib Demand Cobra Wall Type with Push Button Brass', 'ZAR 1,270', 'https://plumbitonline.co.za/product/tap-bib-demand-cobra-wall-type-with-push-button-brass', ''), ('Cobra Demand Bib Tap - Chrome', 'ZAR 1,899', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-chrome', ''), ('Cobra - - Tap & Mixer Public - Bib Tap - Brass', 'ZAR 1,532', 'https://www.lixil.co.za/item/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('WALCRO 101D DEMAND PUSH BUTTON BIB TAP CP ...', 'R769.34', 'https://www.plumblink.co.za/walcro-101d-demand-bibtap-15mm', ''), ('Cobra Demand Bib Tap - Brass', 'ZAR 1,599', 'https://www.livecopper.co.za/products/cobra-demand-bib-tap-brass', ''), ('Bib Demand Tap Short Body', 0, 'https://cachet.co.za/bib-demand-tap-short-body-99035dmt.html', ''), ('Demand Bib Tap | House Shop', 0, 'https://house-shop.co.za/product/demand-bib-tap/', '')]
+INFO:root:finished
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(12+x+12mm)&udm=2&source=univ&fir=W3bcTSm0GzW0uM%252CttTpfoyWB0DVfM%252C_%253Bw-OKr31DellPVM%252CisFoEbibuQviQM%252C_%253BQ6J_ZaFE24FHAM%252CmE1MwaLOjaL64M%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253BZsntI7_z1DHhKM%252C0tKorShy1X2GcM%252C_%253BhscB7D1i1_RsvM%252CxPZjyBBU9rRA3M%252C_%253BdoeuD-n1srqCxM%252CJ7jFfVAncLDDUM%252C_%253BkrczNorlZ61NyM%252CFLU31GF0IUpiXM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253BGe2tyRL9IICHWM%252COLllCmaMpQmfNM%252C_&usg=AI4_-kQRsQ5dBl-VsD7VHsmemFa1k37EhA', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Rhino Junior Plastic Brown Bib Tap Hose Union, GD Fittings', 'ZAR 32.95', 'https://www.cashbuild.co.za/shop/internal-taps/16812-rhino-junior-plastic-brown-bib-tap-hose-union-6009698201885.html', ''), ('Hose Bib Tap, Plastic', 'ZAR 64.95', 'https://www.cashbuild.co.za/shop/internal-taps/5629-hose-bib-tap-plastic-6009620843404.html', ''), ('Builders', 'R85.', 'https://www.onecart.co.za/store/639/builders/category/103', ''), (' Garden plastic edging', 'R 12.98', 'https://www.buco.co.za/catalogsearch/result/index/?_mof_data=product_brand%3A9296&p=4&q=Garden+plastic+edging', ''), (' Garden fence plastic', 0, 'https://www.buco.co.za/default/catalogsearch/result/index/?p=5&q=Garden+fence+plastic', ''), ('Polished Brass Garden Hose Water Bib Tap 1/2 With Male ...', 'R29.00', 'https://www.pricecheck.co.za/offers/242442000/polished-brass-garden-hose-water-bib-tap-12-with-male-thread?rc=Product:138135291.RelatedProducts', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2819+x+19mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm) ...', 'R178.00', 'https://www.bobshop.co.za/builders-plastic-garden-hose-bib-tap-brown-19-x-19mm/p/607714295', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(19+x+19mm)&udm=2&source=univ&fir=WO4ndOwipm401M%252ChBpgvasWlPXaRM%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253Bv_nsFZBtK_DpcM%252Ccr4vfAxC-J2oHM%252C_%253BdN5-3TdA3Znh2M%252Ccr4vfAxC-J2oHM%252C_%253BQ3oNgUIZZ-9qDM%252Ccr4vfAxC-J2oHM%252C_%253Be30p16PsbcGdhM%252CYfI0XAvHitfVvM%252C_%253BFCx77kaw5jHOQM%252CqF118aKDED5uEM%252C_%253BNRnIuHs2y7lMLM%252CjQWOfOeV_F8ZsM%252C_%253BrBTVOKICSoyQoM%252CKbymZY4Z6uzqLM%252C_&usg=AI4_-kTE_4LJ1Z_KcJsuduwQ56IPaZ8AIw', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('How are hose bibs and sillcocks different, and which outdoor faucet sh', 0, 'https://www.aquorwatersystems.com/blogs/news/outdoor-faucets-how-are-hose-bibs-and-silcocks-different-and-which-should-i-choose#:~:text=A%20hose%20bib%20is%20a,an%20outdoor%20faucet%20as%20well.', ''), (' heavy duty garden hose kit', 'R 74.99', 'https://www.buco.co.za/catalogsearch/result/index/?p=5&q=heavy+duty+garden+hose+kit', ''), ('WEDGIT STARTER KIT 6PCE 19MM 3/4', 0, 'https://robotindustrial.co.za/WED00017_WEDGIT-STARTER-KIT-6PCE-19MM-3_4ft', ''), ('Builders Hose Bib Tap (20mm) R180', 'R180', 'https://www.onecart.co.za/store/639/builders/product/462449/builders-hose-bib-tap-(20mm)', ''), ('Garden Hose | Shop in South Africa', 'R72.95', 'https://www.cashbuild.co.za/shop/503-garden-hose', ''), ('Gardena Hose Connector 16mm/19mm', 'ZAR 59.99', 'https://www.checkers.co.za/All-Departments/Outdoor/Garden/Garden-and-Irrigation-Accessories/Gardena-Hose-Connector-16mm-19mm/p/10112778EA', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=5+kg+Empty+Gas+Cylinder+5595&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('', 0, '', ''), ('Cadac 5kg Gas Cylinder - 5595 - New World', 'ZAR 729.00', 'https://newworld.co.za/products/cadac-5kg-gas-cylinder-5595', ''), ('Cadac 5595 5KG Gas Cylinder - Blue - Stax', 'ZAR 599.00', 'https://www.stax.co.za/product/cadac-5595-5kg-gas-cylinder-blue/', ''), ('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.onecart.co.za/store/639/builders/product/466554/cadac-empty-gas-cylinder-(5kg)', ''), ('Cadac 5kg Gas Cylinder', 0, 'https://www.gasextreme.co.za/shop/gas/gas-cylinders-refills/cadac-5kg-gas-cylinder/', ''), ('CADAC Empty Gas Cylinder 5 KG', 'ZAR 659.00', 'https://www.game.co.za/Garden-Patio-Pool/Braai-Patio/Gas-Cylinders/p/000000000000527313', ''), ('', 'R650.00', '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=5+kg+Empty+Gas+Cylinder+5595&udm=2&source=univ&fir=suzy-_Jm8hRBZM%252CGpc-EsOaG4n9lM%252C_%253BJc-jZFoT8MstcM%252CK6mX2JVEGFMwZM%252C_%253BnPObQpDALrS4xM%252Cd-o-A-BvXnj2_M%252C_%253B-t141XHWAZ7zQM%252CtlEB0vr0i2XHEM%252C_%253Bob7FqcvDCzSl4M%252CCWdLsihU1dS-VM%252C_%253Be4s8F_hpnp4gaM%252CIAMBhwA-33__xM%252C_%253BnIV1W22pxThATM%252CmvYMoOki6yiVXM%252C_%253BIACvBUJBeN-0mM%252CiwQUS8-Z3DaN4M%252C_%253BspXz681YbGDhRM%252CLE8KQlvmrMLQKM%252C_%253Bbfg5W2-ppfGf-M%252CiwQUS8-Z3DaN4M%252C_&usg=AI4_-kSmGZ72_usYEKqwMYYt0YaRZMnJTg', ''), ('Cadac Empty Gas Cylinder 5Kg', 'ZAR 695.00', 'https://mercurybuildit.co.za/products-new/gas/empty-bottles/cadac-gas-cylinder-5kg-empty-bottle/', ''), ('Cadac 5 kg Gas Cylinder (excludes gas)', 'R 5', 'https://www.makro.co.za/sports-outdoor-travel/camping/gas-cylinders/gas-cylinders/cylinders/cadac-5-kg-gas-cylinder-excludes-gas-/p/000000000000408408_EA', ''), ('Alva 5 kg Empty Gas Cylinder G050', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Alva-5-kg-Empty-Gas-Cylinder-G050/p/000000000000714461', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Stainless+Steel+Gas+Stove+Silver+GCS04&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Stainless+Steel+Gas+Stove+Silver+GCS04&udm=2&source=univ&fir=6j6PdN5Q-uNA-M%252CvBJ-v7LDubLI3M%252C_%253BL-cWpQZApz2ZPM%252CQUfRZNO82UCb3M%252C_%253BcOH1YaUfSwpqlM%252CQvvhncbJj1vr9M%252C_%253Bx8gb_SgROnDPVM%252Cr3YP1gDCzL9t3M%252C_%253BdcndQ_RVzCqR9M%252C12G0MZHcjHV_-M%252C_%253BLRXP7Wp-E5WaEM%252CkfsZusjFMhNzlM%252C_%253BL6DJYpgo5h-Z9M%252C37LUjVnmeoopUM%252C_%253B9UxexM17OvldCM%252Cz4fUIohJ1bdHWM%252C_%253BDdYmnWoQPXN9KM%252CRuKSfUY0G3-I1M%252C_%253Bh28_vlQOiwlm1M%252CyGumIqRfkVJaRM%252C_&usg=AI4_-kSxxjp6dl67dAoP4hWF2EAA9gUmJw', ''), ('', 0, '', ''), ('Alva 2-Burner Stainless Steel Gas Stove GCS04', 'ZAR 419.00', 'https://www.chamberlains.co.za/alva-2-burner-stainless-steel-gas-stove-gcs04-1060021', ''), ('Alva 2 Burner Stainless Steel Gas Stove Silver GCS04', 'ZAR 599.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('2-BURNER STAINLESS STEEL GAS STOVE', 'R 499.', 'https://alva.co.za/products/2-burner-gas-stove', ''), ('Alva Stainless Steel 2 Plate Gas Burner Stove GCS04', 0, 'https://www.fandc.co.za/product/alva-stainless-steel-2-plate-gas-burner-stove/', ''), ('Alva - 2 Burner - Stainless Steel Gas Stove GCS04', 0, 'https://giftguide.co.za/products/alva-2-burner-stainless-steel-gas-stove', ''), ('Alva 2 Plate Stainless Steel Gas Stove - Silver (720 x 390 ...', 'ZAR 559.00', 'https://www.builders.co.za/Outdoor/Camping/Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove---Silver-(720-x-390-x-100mm)/p/000000000000457807?', ''), ('Alva Stainless Steel Gas Stove - 2 Burner', 'ZAR 499.00', 'https://4months.co.za/product/alva-stainless-steel-gas-stove-2-burner/', ''), ('2 Burner Gas Stove With Legs - GCS04L ALVA', 0, 'https://www.silverstreams.co.za/6.2-Burner-Gas-Stove-With-Legs-GCS04L-ALVA-Gas-Products.htm?nbsGroupID=5&prodSubCatID=60&prodCatID=27&prodID=2116', ''), ('The Best Cookware for Gas Stoves: What To Look For', 0, 'https://hexclad.com/blogs/posts/best-cookware-for-gas-stoves#:~:text=Stainless%20steel%20heats%20evenly%20and,that%20utilize%20tri%2Dply%20technology.', ''), ('Alva 2-Burner Gas StoveAlva GCS04', 'ZAR 399.00', 'https://brandssa.co.za/product/alva-2-burner-gas-stovealva-gcs04/', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Demand+Bib+Tap+-+Brass&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cobra Demand Bib Tap - Brass - CobraOnline', 'ZAR 1,599', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('', 0, '', ''), ('G-Kent Brass Bib Tap 15mm (1/2")', 0, 'https://www.intraco.com.my/g-kent-brass-bib-tap-15mm-1-2#:~:text=faucets%20mounted%20on%20vertical%20surfaces,temperature%20of%2065%C2%B0C.', ''), ('Cobra Demand Wall Tap Demand', 'ZAR 1,532', 'https://www.cobra.co.za/product/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Demand+Bib+Tap+-+Brass&udm=2&source=univ&fir=aMILb3TtpIiyyM%252Cr_75Epw0ZeuuMM%252C_%253BgeeMq1bUsR3rhM%252C2aZkdBr2-JdesM%252C_%253B32JFErlhniC8MM%252CyCooJLoqHUtGbM%252C_%253BN_JWrKh0kL5YlM%252CpLNv3L3fE4dkNM%252C_%253BCTQdr2RZHv5vPM%252CJ0wqePsQNJjDvM%252C_%253BVny4J62nVvkUBM%252C5mSs1DoDAf1wTM%252C_%253BJ-xLO3xw0PnBXM%252C86Oje7FkQdihZM%252C_%253BvzG75z7PbuVV_M%252CYqx7uhvhVFZXoM%252C_%253BnAe2XLmNRDrW7M%252Cr0ap3seG8AowFM%252C_%253BgP7ek4-V_dotIM%252CtNLTf6Q7KdLrRM%252C_&usg=AI4_-kQNh5Zy6AOjc4zbGaagz2jlfgErnA', ''), ('Tap Bib Demand Cobra Wall Type with Push Button Brass', 'ZAR 1,270', 'https://plumbitonline.co.za/product/tap-bib-demand-cobra-wall-type-with-push-button-brass', ''), ('Cobra Demand Bib Tap - Chrome', 'ZAR 1,899', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-chrome', ''), ('Cobra - - Tap & Mixer Public - Bib Tap - Brass', 'ZAR 1,532', 'https://www.lixil.co.za/item/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('WALCRO 101D DEMAND PUSH BUTTON BIB TAP CP ...', 'R769.34', 'https://www.plumblink.co.za/walcro-101d-demand-bibtap-15mm', ''), ('Cobra Demand Bib Tap - Brass', 'ZAR 1,599', 'https://www.livecopper.co.za/products/cobra-demand-bib-tap-brass', ''), ('Bib Demand Tap Short Body', 0, 'https://cachet.co.za/bib-demand-tap-short-body-99035dmt.html', ''), ('Demand Bib Tap | House Shop', 0, 'https://house-shop.co.za/product/demand-bib-tap/', '')]
+INFO:root:start
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=test&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:Failed to find the button
+INFO:__main__:No matching element found to reject the pop-up.
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2812+x+12mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&sca_upv=1&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(12+x+12mm)&udm=2&source=univ&fir=W3bcTSm0GzW0uM%252CttTpfoyWB0DVfM%252C_%253Bw-OKr31DellPVM%252CisFoEbibuQviQM%252C_%253BQ6J_ZaFE24FHAM%252CmE1MwaLOjaL64M%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253BZsntI7_z1DHhKM%252C0tKorShy1X2GcM%252C_%253BhscB7D1i1_RsvM%252CxPZjyBBU9rRA3M%252C_%253BdoeuD-n1srqCxM%252CJ7jFfVAncLDDUM%252C_%253BkrczNorlZ61NyM%252CFLU31GF0IUpiXM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253BGe2tyRL9IICHWM%252COLllCmaMpQmfNM%252C_&usg=AI4_-kQRsQ5dBl-VsD7VHsmemFa1k37EhA', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('Rhino Junior Plastic Brown Bib Tap Hose Union, GD Fittings', 'ZAR 32.95', 'https://www.cashbuild.co.za/shop/internal-taps/16812-rhino-junior-plastic-brown-bib-tap-hose-union-6009698201885.html', ''), ('Hose Bib Tap, Plastic', 'ZAR 64.95', 'https://www.cashbuild.co.za/shop/internal-taps/5629-hose-bib-tap-plastic-6009620843404.html', ''), ('Builders', 'R85.', 'https://www.onecart.co.za/store/639/builders/category/103', ''), (' Garden plastic edging', 'R 12.98', 'https://www.buco.co.za/catalogsearch/result/index/?_mof_data=product_brand%3A9296&p=4&q=Garden+plastic+edging', ''), (' Garden fence plastic', 0, 'https://www.buco.co.za/default/catalogsearch/result/index/?p=5&q=Garden+fence+plastic', ''), ('Polished Brass Garden Hose Water Bib Tap 1/2 With Male ...', 'R29.00', 'https://www.pricecheck.co.za/offers/242442000/polished-brass-garden-hose-water-bib-tap-12-with-male-thread?rc=Product:138135291.RelatedProducts', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Plastic+Garden+Hose+Bib+Tap+-+Brown+%2819+x+19mm%29&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm)', 'ZAR 89.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--19-x-19mm-/p/000000000000454824', ''), ('', 0, '', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (19 x 19mm) ...', 'R178.00', 'https://www.bobshop.co.za/builders-plastic-garden-hose-bib-tap-brown-19-x-19mm/p/607714295', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&sca_upv=1&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Plastic+Garden+Hose+Bib+Tap+-+Brown+(19+x+19mm)&udm=2&source=univ&fir=WO4ndOwipm401M%252ChBpgvasWlPXaRM%252C_%253BmhYNjmDFia9_8M%252CUEgddJZChnJcDM%252C_%253B7V0jxg1yf_O9GM%252Ccr4vfAxC-J2oHM%252C_%253Bv_nsFZBtK_DpcM%252Ccr4vfAxC-J2oHM%252C_%253BdN5-3TdA3Znh2M%252Ccr4vfAxC-J2oHM%252C_%253BQ3oNgUIZZ-9qDM%252Ccr4vfAxC-J2oHM%252C_%253Be30p16PsbcGdhM%252CYfI0XAvHitfVvM%252C_%253BFCx77kaw5jHOQM%252CqF118aKDED5uEM%252C_%253BNRnIuHs2y7lMLM%252CjQWOfOeV_F8ZsM%252C_%253BrBTVOKICSoyQoM%252CKbymZY4Z6uzqLM%252C_&usg=AI4_-kTE_4LJ1Z_KcJsuduwQ56IPaZ8AIw', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.builders.co.za/Outdoor-Garden-and-Patio/Garden-Decor/Garden-Taps/Builders-Plastic-Garden-Hose-Bib-Tap---Brown--12-x-12mm-/p/000000000000454823', ''), ('Builders Plastic Garden Hose Bib Tap - Brown (12 x 12mm)', 'ZAR 85.00', 'https://www.onecart.co.za/store/639/builders/product/461388/builders-plastic-garden-hose-bib-tap-brown-(12-x-12mm)', ''), ('How are hose bibs and sillcocks different, and which outdoor faucet sh', 0, 'https://www.aquorwatersystems.com/blogs/news/outdoor-faucets-how-are-hose-bibs-and-silcocks-different-and-which-should-i-choose#:~:text=A%20hose%20bib%20is%20a,an%20outdoor%20faucet%20as%20well.', ''), (' heavy duty garden hose kit', 'R 74.99', 'https://www.buco.co.za/catalogsearch/result/index/?p=5&q=heavy+duty+garden+hose+kit', ''), ('WEDGIT STARTER KIT 6PCE 19MM 3/4', 0, 'https://robotindustrial.co.za/WED00017_WEDGIT-STARTER-KIT-6PCE-19MM-3_4ft', ''), ('Builders Hose Bib Tap (20mm) R180', 'R180', 'https://www.onecart.co.za/store/639/builders/product/462449/builders-hose-bib-tap-(20mm)', ''), ('Garden Hose | Shop in South Africa', 'R72.95', 'https://www.cashbuild.co.za/shop/503-garden-hose', ''), ('Gardena Hose Connector 16mm/19mm', 'ZAR 59.99', 'https://www.checkers.co.za/All-Departments/Outdoor/Garden/Garden-and-Irrigation-Accessories/Gardena-Hose-Connector-16mm-19mm/p/10112778EA', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=5+kg+Empty+Gas+Cylinder+5595&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Cadac-5-kg-Empty-Gas-Cylinder-5595/p/000000000000419011', ''), ('', 0, '', ''), ('Cadac 5kg Gas Cylinder - 5595 - New World', 'ZAR 729.00', 'https://newworld.co.za/products/cadac-5kg-gas-cylinder-5595', ''), ('Cadac 5595 5KG Gas Cylinder - Blue - Stax', 'ZAR 599.00', 'https://www.stax.co.za/product/cadac-5595-5kg-gas-cylinder-blue/', ''), ('Cadac 5 kg Empty Gas Cylinder 5595', 'ZAR 749.00', 'https://www.onecart.co.za/store/639/builders/product/466554/cadac-empty-gas-cylinder-(5kg)', ''), ('CADAC Empty Gas Cylinder 5 KG', 'ZAR 659.00', 'https://www.game.co.za/Garden-Patio-Pool/Braai-Patio/Gas-Cylinders/p/000000000000527313', ''), ('Cadac 5kg Gas Cylinder', 0, 'https://www.gasextreme.co.za/shop/gas/gas-cylinders-refills/cadac-5kg-gas-cylinder/', ''), ('', 'R650.00', '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&sca_upv=1&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=5+kg+Empty+Gas+Cylinder+5595&udm=2&source=univ&fir=suzy-_Jm8hRBZM%252CGpc-EsOaG4n9lM%252C_%253BJc-jZFoT8MstcM%252CK6mX2JVEGFMwZM%252C_%253BnPObQpDALrS4xM%252Cd-o-A-BvXnj2_M%252C_%253B-t141XHWAZ7zQM%252CtlEB0vr0i2XHEM%252C_%253Bob7FqcvDCzSl4M%252CCWdLsihU1dS-VM%252C_%253Be4s8F_hpnp4gaM%252CIAMBhwA-33__xM%252C_%253BnIV1W22pxThATM%252CmvYMoOki6yiVXM%252C_%253BIACvBUJBeN-0mM%252CiwQUS8-Z3DaN4M%252C_%253BspXz681YbGDhRM%252CLE8KQlvmrMLQKM%252C_%253Bbfg5W2-ppfGf-M%252CiwQUS8-Z3DaN4M%252C_&usg=AI4_-kSmGZ72_usYEKqwMYYt0YaRZMnJTg', ''), ('Cadac Empty Gas Cylinder 5Kg', 'ZAR 695.00', 'https://mercurybuildit.co.za/products-new/gas/empty-bottles/cadac-gas-cylinder-5kg-empty-bottle/', ''), ('Cadac 5 kg Gas Cylinder (excludes gas)', 'R 5', 'https://www.makro.co.za/sports-outdoor-travel/camping/gas-cylinders/gas-cylinders/cylinders/cadac-5-kg-gas-cylinder-excludes-gas-/p/000000000000408408_EA', ''), ('Alva 5 kg Empty Gas Cylinder G050', 'ZAR 749.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Gas-Cylinders/Alva-5-kg-Empty-Gas-Cylinder-G050/p/000000000000714461', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Stainless+Steel+Gas+Stove+Silver+GCS04&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&sca_upv=1&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Stainless+Steel+Gas+Stove+Silver+GCS04&udm=2&source=univ&fir=6j6PdN5Q-uNA-M%252CvBJ-v7LDubLI3M%252C_%253BL-cWpQZApz2ZPM%252CQUfRZNO82UCb3M%252C_%253BcOH1YaUfSwpqlM%252CQvvhncbJj1vr9M%252C_%253Bx8gb_SgROnDPVM%252Cr3YP1gDCzL9t3M%252C_%253BdcndQ_RVzCqR9M%252C12G0MZHcjHV_-M%252C_%253BLRXP7Wp-E5WaEM%252CkfsZusjFMhNzlM%252C_%253BL6DJYpgo5h-Z9M%252C37LUjVnmeoopUM%252C_%253B9UxexM17OvldCM%252Cz4fUIohJ1bdHWM%252C_%253BDdYmnWoQPXN9KM%252CRuKSfUY0G3-I1M%252C_%253Bh28_vlQOiwlm1M%252CyGumIqRfkVJaRM%252C_&usg=AI4_-kSxxjp6dl67dAoP4hWF2EAA9gUmJw', ''), ('', 0, '', ''), ('Alva 2-Burner Stainless Steel Gas Stove GCS04', 'ZAR 419.00', 'https://www.chamberlains.co.za/alva-2-burner-stainless-steel-gas-stove-gcs04-1060021', ''), ('Alva 2 Burner Stainless Steel Gas Stove Silver GCS04', 'ZAR 599.00', 'https://www.builders.co.za/Load-Shedding/Gas-Cooking/Camping-Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove-Silver-GCS04/p/000000000000457807', ''), ('2-BURNER STAINLESS STEEL GAS STOVE', 'R 499.', 'https://alva.co.za/products/2-burner-gas-stove', ''), ('Alva Stainless Steel 2 Plate Gas Burner Stove GCS04', 0, 'https://www.fandc.co.za/product/alva-stainless-steel-2-plate-gas-burner-stove/', ''), ('Alva - 2 Burner - Stainless Steel Gas Stove GCS04', 0, 'https://giftguide.co.za/products/alva-2-burner-stainless-steel-gas-stove', ''), ('Alva 2 Plate Stainless Steel Gas Stove - Silver (720 x 390 ...', 'ZAR 559.00', 'https://www.builders.co.za/Outdoor/Camping/Gas-Cooking/Alva-2-Burner-Stainless-Steel-Gas-Stove---Silver-(720-x-390-x-100mm)/p/000000000000457807?', ''), ('Alva Stainless Steel Gas Stove - 2 Burner', 'ZAR 499.00', 'https://4months.co.za/product/alva-stainless-steel-gas-stove-2-burner/', ''), ('2 Burner Gas Stove With Legs - GCS04L ALVA', 0, 'https://www.silverstreams.co.za/6.2-Burner-Gas-Stove-With-Legs-GCS04L-ALVA-Gas-Products.htm?nbsGroupID=5&prodSubCatID=60&prodCatID=27&prodID=2116', ''), ('The Best Cookware for Gas Stoves: What To Look For', 0, 'https://hexclad.com/blogs/posts/best-cookware-for-gas-stoves#:~:text=Stainless%20steel%20heats%20evenly%20and,that%20utilize%20tri%2Dply%20technology.', ''), ('Alva 2-Burner Gas StoveAlva GCS04', 'ZAR 399.00', 'https://brandssa.co.za/product/alva-2-burner-gas-stovealva-gcs04/', '')]
+INFO:__main__:https://www.google.co.za/search?hl=en&as_q=Demand+Bib+Tap+-+Brass&as_epq=&as_oq=&as_eq=&lr=lang_en&cr=countryZA
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:Failed to extract link
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to find the name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:failed to get a name
+INFO:__main__:[('Cobra Demand Bib Tap - Brass - CobraOnline', 'ZAR 1,599', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-brass', ''), ('', 0, '', ''), ('G-Kent Brass Bib Tap 15mm (1/2")', 0, 'https://www.intraco.com.my/g-kent-brass-bib-tap-15mm-1-2#:~:text=faucets%20mounted%20on%20vertical%20surfaces,temperature%20of%2065%C2%B0C.', ''), ('Cobra Demand Wall Tap Demand', 'ZAR 1,532', 'https://www.cobra.co.za/product/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('', 0, '/search?lr=lang_en&cr=countryZA&sca_esv=a51250772207ca05&sca_upv=1&hl=en&tbs=lr:lang_1en,ctr:countryZA&q=Demand+Bib+Tap+-+Brass&udm=2&source=univ&fir=aMILb3TtpIiyyM%252Cr_75Epw0ZeuuMM%252C_%253BgeeMq1bUsR3rhM%252C2aZkdBr2-JdesM%252C_%253B32JFErlhniC8MM%252CyCooJLoqHUtGbM%252C_%253BN_JWrKh0kL5YlM%252CpLNv3L3fE4dkNM%252C_%253BCTQdr2RZHv5vPM%252CJ0wqePsQNJjDvM%252C_%253BVny4J62nVvkUBM%252C5mSs1DoDAf1wTM%252C_%253BJ-xLO3xw0PnBXM%252C86Oje7FkQdihZM%252C_%253BvzG75z7PbuVV_M%252CYqx7uhvhVFZXoM%252C_%253BnAe2XLmNRDrW7M%252Cr0ap3seG8AowFM%252C_%253BgP7ek4-V_dotIM%252CtNLTf6Q7KdLrRM%252C_&usg=AI4_-kQNh5Zy6AOjc4zbGaagz2jlfgErnA', ''), ('Tap Bib Demand Cobra Wall Type with Push Button Brass', 'ZAR 1,270', 'https://plumbitonline.co.za/product/tap-bib-demand-cobra-wall-type-with-push-button-brass', ''), ('Cobra Demand Bib Tap - Chrome', 'ZAR 1,899', 'https://www.cobraonline.co.za/products/cobra-demand-bib-tap-chrome', ''), ('Cobra - - Tap & Mixer Public - Bib Tap - Brass', 'ZAR 1,532', 'https://www.lixil.co.za/item/cobra-tap-and-mixer-public-bib-tap-brass', ''), ('WALCRO 101D DEMAND PUSH BUTTON BIB TAP CP ...', 'R769.34', 'https://www.plumblink.co.za/walcro-101d-demand-bibtap-15mm', ''), ('Cobra Demand Bib Tap - Brass', 'ZAR 1,599', 'https://www.livecopper.co.za/products/cobra-demand-bib-tap-brass', ''), ('Bib Demand Tap Short Body', 0, 'https://cachet.co.za/bib-demand-tap-short-body-99035dmt.html', ''), ('Demand Bib Tap | House Shop', 0, 'https://house-shop.co.za/product/demand-bib-tap/', '')]
+INFO:root:finished
