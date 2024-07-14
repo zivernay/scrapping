@@ -55,3 +55,41 @@ def get_page(driver, url):
     time.sleep(random.uniform(0, 2))  # Random delay to mimic human behavior
     driver.implicitly_wait(2)  # Wait up to 30 seconds
     return driver.page_source
+
+
+def get_search_bar(driver, selector):
+    """
+    Use selector  to find searchbars on websites
+    @inputs : driver, selector
+    @returns: searchbar handle
+    """
+    search_bar = None
+    try:
+        search_bar = driver.find_element(By.CSS_SELECTOR, selector)
+    except:
+        search_bar = find_search_bar_common_keywords(driver)
+    return search_bar
+
+def find_search_bar_common_keywords(driver):
+    """
+    Use common keyword  to find searchbars on websites
+    @inputs : driver, selector
+    @returns: searchbar handle
+    """
+    search_bar = None
+    search_bar_identifiers = [
+            (By.NAME, 'q'),
+            (By.NAME, 'search'),
+            (By.ID, 'search'),
+            (By.CSS_SELECTOR, 'input[type="search"]'),
+            (By.CSS_SELECTOR, 'input[type="text"]')
+        ]
+
+    for by, value in search_bar_identifiers:
+        try:
+            search_bar = driver.find_element(by, value)
+            if search_bar:
+                break
+        except:
+            continue
+    return search_bar
