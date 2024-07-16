@@ -1,9 +1,9 @@
 import csv
 
 
-def write_price_data_dict_csv(data: dict):
-    csvfile = open(".\\files\\price_data_compact.csv", "w", newline="")
-    csvfile_raw = open(".\\files\\price_data.csv", "w", newline="")
+def write_price_data_dict_csv(data: dict, source: str):
+    csvfile = open(f".\\files\\{source}_price_data_compact.csv", "w", newline="")
+    csvfile_raw = open(f".\\files\\{source}_price_data.csv", "w", newline="")
     compact_writer = csv.writer(
         csvfile, delimiter=";", quotechar="'", quoting=csv.QUOTE_MINIMAL
     )

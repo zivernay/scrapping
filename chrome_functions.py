@@ -92,4 +92,13 @@ def find_search_bar_common_keywords(driver):
                 break
         except:
             continue
-    return search_bar
+    return 
+
+def get_element_by_css_selector(driver, selector):
+    element = None
+    try:
+        element = driver.find_element(By.CSS_SELECTOR, selector)
+    except NoSuchElementException:
+        pass
+    return element
+    

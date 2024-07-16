@@ -1,10 +1,10 @@
 import logging
-from csv_functions import read_entries_from_csv, write_price_data_dict_csv
-from chrome_functions import setup_driver, handle_popup, get_page
+from csv_functions import (read_entries_from_csv, write_price_data_dict_csv)
+from chrome_functions import (setup_driver, handle_popup, get_page)
+from parse_html_soup import (filter_parsed_result_list, remove_non_text_tags)
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 import unidecode
-import re
 
 
 def build_google_search_url(
@@ -122,41 +122,12 @@ def get_shop_name(decode, logger, html_card):
     except:
         logger.info("failed to get a name")
     return name
-
-
-def is_match(re_module, text1: str, text2: str):
-    """Compare to the first text to the second one by checking if all the keywords are in the second text"""
-    words = re_module.findall(r"\w*", text1)
-    for word in words:
-        if len(word) <= 1:
-            continue
-        if not (word.lower() in text2.lower()):
-            return False
-    return True
-
-
-def filter_parsed_result_list(re, arr: list, query: str):
-    filtered_data = []
-    for data in arr:
-        if is_match(re, query, data[0]):
-            filtered_data.append(data)
-    return filtered_data
-
-def remove_non_text_tags(logger, soup_obj):
-    tags = ['script', 'img', 'style', 'svg']
-    for tag in tags:
-        try:
-            for tag_data in soup_obj.find_all(tag):
-                tag_data.decompose()
-        except:
-            continue
-    return soup_obj
     
 def main():
     logger = logging.getLogger(__name__)
-    driver = setup_driver()
     logging.basicConfig(filename=".\\files\\gsearch.log", level=logging.INFO)
     logging.info("start")
+    driver = setup_driver()
     csv_file_path = "queries.csv"
     queries = read_entries_from_csv(csv_file_path)
     driver.get(build_google_search_url(urlencode, logger, "test"))
