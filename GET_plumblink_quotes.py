@@ -6,6 +6,7 @@ from selenium.webdriver.common.alert import Alert
 from bs4 import BeautifulSoup
 import re
 import unidecode
+import time
 
 plumblink_config = {
     "url" : "https://www.plumblink.co.za/",
@@ -71,8 +72,10 @@ def handle_plumblink_popups(driver):
         try:
             Alert(driver).dismiss()
         except:
-            if close_popup_tag: close_popup_tag.click() # Close pop up
-            if close_cookies_tag: close_cookies_tag.click() # Decline cookies
+            if close_popup_tag and close_popup_tag.is_enabled() and close_popup_tag.is_displayed():
+                close_popup_tag.click() # Close pop up
+            if close_cookies_tag and close_cookies_tag.is_enabled() and close_cookies_tag.is_displayed():
+                close_cookies_tag.click() # Decline cookies
         
     
 def main():
@@ -82,7 +85,7 @@ def main():
     driver = setup_driver()
     get_page(driver, plumblink_config['url'])
     # go = input("Close all the pop-up windows on the page and then press ENTER to continue ")
-    driver.implicitly_wait(5) # Wait for Search bar to render
+    time.sleep(5) # Wait for Search bar to render
     handle_plumblink_popups(driver)
     search_bar = get_search_bar(driver, plumblink_config['selector']['search_bar'][0])
     if search_bar: search_bar.click()
@@ -93,11 +96,13 @@ def main():
         try:
             search_bar.clear()
             search_bar.send_keys(query)
+            time.sleep(1.5)  # All page to fully render 
         except AttributeError:
             search_bar = get_search_bar(driver, plumblink_config['selector']['search_bar'][1])
             if not search_bar: continue
             search_bar.clear()
             search_bar.send_keys(query)
+            time.sleep(1.5)  # All page to fully render 
         except:
             continue
         driver.implicitly_wait(3)  # Wait for page to finish loading

@@ -12,7 +12,7 @@ def is_match(re_module, text1: str, text2: str):
     return True
 
 
-def filter_parsed_result_list(re, arr: list, query: str):
+def filter_parsed_result_list(arr: list, query: str):
     filtered_data = []
     for data in arr:
         if is_match(re, query, data[0]):

@@ -72,7 +72,7 @@ def main():
     driver.implicitly_wait(5)  # Wait for Search bar to render
     handle_plumbit_popups(driver)
     search_bar = get_search_bar(driver, plumbit_config["selector"]["search_bar"])
-    if search_bar:
+    if search_bar and search_bar.is_enabled and search_bar.is_displayed:
         search_bar.click()
     queries = read_entries_from_csv("queries.csv")
     price_data = {}
