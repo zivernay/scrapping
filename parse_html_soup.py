@@ -21,7 +21,7 @@ def filter_parsed_result_list(re, arr: list, query: str):
 
 
 def remove_non_text_tags(soup_obj):
-    tags = ["script", "img", "style", "svg"]
+    tags = ["script", "img", "style", "svg", "head"]
     for tag in tags:
         try:
             for tag_data in soup_obj.find_all(tag):
