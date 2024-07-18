@@ -2,7 +2,11 @@ import time
 import random
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import (NoSuchElementException, ElementClickInterceptedException)
+from selenium.common.exceptions import (
+    NoSuchElementException,
+    ElementClickInterceptedException,
+)
+
 
 def setup_driver():
     """
@@ -10,6 +14,7 @@ def setup_driver():
     """
     driver = webdriver.Chrome()
     return driver
+
 
 def handle_popup(driver, logger):
     try:
@@ -50,6 +55,7 @@ def handle_popup(driver, logger):
     logger.info("No matching element found to reject the pop-up.")
     return False
 
+
 def get_page(driver, url):
     driver.get(url)
     time.sleep(random.uniform(0, 2))  # Random delay to mimic human behavior
@@ -70,6 +76,7 @@ def get_search_bar(driver, selector):
         search_bar = find_search_bar_common_keywords(driver)
     return search_bar
 
+
 def find_search_bar_common_keywords(driver):
     """
     Use common keyword  to find searchbars on websites
@@ -78,12 +85,12 @@ def find_search_bar_common_keywords(driver):
     """
     search_bar = None
     search_bar_identifiers = [
-            (By.NAME, 'q'),
-            (By.NAME, 'search'),
-            (By.ID, 'search'),
-            (By.CSS_SELECTOR, 'input[type="search"]'),
-            (By.CSS_SELECTOR, 'input[type="text"]')
-        ]
+        (By.NAME, "q"),
+        (By.NAME, "search"),
+        (By.ID, "search"),
+        (By.CSS_SELECTOR, 'input[type="search"]'),
+        (By.CSS_SELECTOR, 'input[type="text"]'),
+    ]
 
     for by, value in search_bar_identifiers:
         try:
@@ -92,7 +99,8 @@ def find_search_bar_common_keywords(driver):
                 break
         except:
             continue
-    return 
+    return
+
 
 def get_element_by_css_selector(driver, selector):
     element = None
@@ -101,4 +109,10 @@ def get_element_by_css_selector(driver, selector):
     except NoSuchElementException:
         pass
     return element
-    
+
+
+def click_element(element):
+    if element and element.is_enabled() and element.is_displayed():
+        element.click()
+        return True
+    return False

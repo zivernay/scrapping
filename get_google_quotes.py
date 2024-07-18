@@ -137,12 +137,12 @@ def main():
         url = build_google_search_url(urlencode, logger, query)
         page = get_page(driver, url)
         page_soup = BeautifulSoup(page, "html.parser")
-        page_soup_filtered = remove_non_text_tags(logger, page_soup)
+        page_soup_filtered = remove_non_text_tags(page_soup)
         res = parse_google_search_page(logger, unidecode, page_soup_filtered)
-        res_filtered = filter_parsed_result_list(re, res, query)
+        res_filtered = filter_parsed_result_list(res, query)
         price_data[query] = res_filtered
         logger.info(res)
-    write_price_data_dict_csv(price_data)
+    write_price_data_dict_csv(price_data, "Google")
     logging.info("finished")
 
 
