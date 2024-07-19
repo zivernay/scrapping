@@ -112,7 +112,10 @@ def get_element_by_css_selector(driver, selector):
 
 
 def click_element(element):
-    if element and element.is_enabled() and element.is_displayed():
+    if is_active_element(element):
         element.click()
         return True
     return False
+
+def is_active_element(element):
+    return element and element.is_enabled() and element.is_displayed()
