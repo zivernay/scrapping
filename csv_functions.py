@@ -36,6 +36,11 @@ def read_entries_from_csv(csv_file_path):
     with open(csv_file_path, mode="r", newline="") as file:
         reader = csv.reader(file)
         for row in reader:
+            row_entry = ""
             if row:  # Check if the row is not empty
-                entries.append(row[0])
+                split_row = []
+                for col in row:
+                    split_row += col.split()
+                row_entry  = " ".join(split_row)
+            entries.append(row_entry)
     return entries

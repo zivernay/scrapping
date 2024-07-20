@@ -105,10 +105,14 @@ def main():
         search_box = get_active_element(driver, '#react-app div[data-testid="SearchBox"]')
         try:
             search_bar = search_box.find_element(By.CSS_SELECTOR, 'input[aria-labelledby="searchValue"]')
+            search_bar.clear()
+            driver.implicitly_wait(3)
             search_bar.send_keys("_")
+            time.sleep(0.5)
             clear_search_bar = search_box.find_element(By.CSS_SELECTOR, 'div[data-testid="searchClearButton"] svg')
             clear_search_bar.click()
             search_bar.send_keys(query)
+            time.sleep(0.5)
             search_bar.send_keys(Keys.ENTER)
         except:
             price_data[query] = []
