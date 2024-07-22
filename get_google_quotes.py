@@ -5,7 +5,7 @@ from parse_html_soup import (filter_parsed_result_list, remove_non_text_tags)
 from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 import unidecode
-
+import re
 
 def build_google_search_url(
     urlencode,
@@ -139,6 +139,7 @@ def main():
         page_soup = BeautifulSoup(page, "html.parser")
         page_soup_filtered = remove_non_text_tags(page_soup)
         res = parse_google_search_page(logger, unidecode, page_soup_filtered)
+        if res == None: res = []
         res_filtered = filter_parsed_result_list(res, query)
         price_data[query] = res_filtered
         logger.info(res)
